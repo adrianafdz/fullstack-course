@@ -44,3 +44,8 @@ body {
     border-bottom: 1px solid #ddd;
     padding: 20px;
 }
+
+a, a:hover, a:focus {
+    text-decoration: none;
+    color: #212529;
+}
