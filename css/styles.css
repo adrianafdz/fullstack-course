@@ -17,7 +17,7 @@
   margin: 0px auto;
   padding: 70px 30px;
   background-color: #9575CD;
-  counter-reset: floralwhite;
+  color: floralwhite;
 }
 address {
   font-size: 80%;
